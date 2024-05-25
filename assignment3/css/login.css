@@ -1,0 +1,41 @@
+body {
+     background-color: #f6f0f0;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.form {
+    background-color: white;
+    width: 50%;
+    padding: 20px;
+    margin: 100px 0 0 350px;
+}
+#welcome-message,
+#welcome-message2 {
+    font-size: 22px;
+}
+label {
+    color: #a29d9d;
+}
+input[type="text"] {
+    width: 95%;
+    padding: 15px;
+    margin: 10px 0 30px 0;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+}
+button {
+    padding: 15px 25px;
+    border-radius: 15px;
+    border: none;
+    margin: 10px 0 20px 0;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #a29d9d;
+}
+input:hover {
+    border: 1px solid #1e83bd;
+}
+.btn {
+    display: flex;
+    justify-content: end;
+}
