@@ -1,0 +1,2 @@
+- Create Login UI component in Vuejs
+- Access and display username & password using directive (v-model)
